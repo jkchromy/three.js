@@ -3,3 +3,7 @@
 .project
 node_modules
 .idea/
+build/three-css3d.min.js
+build/three-extras.min.js
+build/three-math.js
+build/three-math.min.js
